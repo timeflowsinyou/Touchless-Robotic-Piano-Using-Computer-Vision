@@ -11,11 +11,7 @@ classifying fingers as simply open or closed.
 
 [Download or view the full MP4 demonstration](media/demo.mp4)
 
-The relative MP4 link above opens the committed file; it is not claimed to be
-an embedded player. For a GitHub-native player, upload `media/demo.mp4` as a
-GitHub attachment after publishing the repository, then place the generated
-GitHub-hosted URL alone in its own README paragraph. See
-[Native GitHub video player](#native-github-video-player) for exact steps.
+
 
 ## System overview
 
